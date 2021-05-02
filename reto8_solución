@@ -1,0 +1,15 @@
+Se debe hacer una verificación de la cadena
+
+echo "3d3d516343746d4d6d6c315669563362" | xxd -ps -r
+
+Con esto obtenemos ==QcCtmMml1ViV3b, vemos que está al revés entonces podemos hacer 
+
+echo "3d3d516343746d4d6d6c315669563362" | xxd -ps -r | rev
+
+b3ViV1lmMmtCcQ==
+
+Con esto usamos base64 decode
+
+echo "3d3d516343746d4d6d6c315669563362" | xxd -ps -r | rev | base64 -d; echo
+
+oubWYf2kBq

