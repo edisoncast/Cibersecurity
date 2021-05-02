@@ -1,0 +1,81 @@
+Links:
+
+https://www.elladodelmal.com/
+https://unaaldia.hispasec.com/
+http://www.securitybydefault.com/
+https://www.muyseguridad.net/
+https://www.xataka.com/tag/seguridad-informatica
+https://www.bbc.com/mundo/topics/ckdxnw5r28kt
+https://www.dragonjar.org/
+https://thehackerway.com/
+https://www.segu-info.com.ar/
+https://sombreroblanco.cl/
+http://www.sinfocol.org/
+https://blog.csiete.org/
+https://www.elevenpaths.com/
+
+English links
+
+https://www.securityweek.com/
+https://www.infosecurity-magazine.com/news/
+https://www.wired.com/category/security/
+https://threatpost.com/
+
+
+Personas referentes en ciberseguridad habla hispana
+
+https://www.zinkupmarketing.com/es/blog/top-50-influencers-de-ciberserguridad-de-habla-hispana/
+https://twitter.com/sinfocol
+https://twitter.com/BinaryMantis
+https://twitter.com/dsespitia
+https://twitter.com/jofpin
+https://twitter.com/calderpwn
+https://twitter.com/nitr0usmx
+https://twitter.com/EChavarro
+https://twitter.com/SamuraiBlanco
+https://twitter.com/d13goF
+https://twitter.com/jjtibaquira
+https://twitter.com/nonroot
+https://twitter.com/santiaguf
+https://twitter.com/AndresRiancho
+https://twitter.com/soyelmago
+https://twitter.com/kfs
+
+
+Plataformas para practicar 
+
+https://www.hackthebox.eu/home/country/rankings/CO
+https://www.wechall.net/country_ranking/for/31/Colombia
+https://overthewire.org/wargames/
+http://www.yashira.org/
+
+
+Personas referentes en ciberseguridad no habla hispana
+
+https://digitalguardian.com/blog/top-50-infosec-influences-you-should-follow
+
+Personas dedicadas a compartir información:
+
+https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+https://www.youtube.com/channel/UC2o1vzpUIvgf0VMJIMKZ_rQ
+https://www.youtube.com/channel/UCNHWpNqiM8yOQcHXtsluD7Q
+https://www.meetup.com/es/Hack-The-Box-Meetup-Colombia/
+
+
+Conferencias de ciberseguridad:
+https://www.defcon.org/  (USA)
+https://www.blackhat.com/ (USA)
+https://www.ekoparty.org/en_US/ (Argentina)
+https://www.8dot8.cl/ (Chile)
+https://owasp.org/www-event-2020-latam-at-home/
+https://www.dragonjarcon.org/
+https://barcamp.se/
+
+Empresas para trabajar en ciberseguridad
+
+https://ioactive.com/
+https://fluidattacks.com/web/
+https://www.ey.com/en_us
+https://home.kpmg/co/es/home.html
+https://www.pwc.com/co/es.html
+https://www2.deloitte.com/co/es.html
